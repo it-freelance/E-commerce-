@@ -3,7 +3,17 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: heading
+  label: A propos
+- type: heading
+  label: Services
+- type: heading
+  label: Offres
+- type: heading
+  label: Réalisations
+- type: heading
+  label: Contact
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
