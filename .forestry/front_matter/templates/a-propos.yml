@@ -1,4 +1,9 @@
 ---
 label: A propos
 hide_body: true
-fields: []
+fields:
+- name: a_propos
+  type: text
+  config:
+    required: false
+  label: A propos
